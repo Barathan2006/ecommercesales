@@ -32,7 +32,7 @@ The goal is to clean the raw data, understand its structure, and extract meaning
 
 | Property | Details |
 |----------|---------|
-| Source | [Kaggle — Online Retail Dataset](https://www.kaggle.com/) |
+| Source | [Kaggle — Online Retail Dataset](http://localhost:8888/files/ecommercesales.ipynb?_xsrf=2%7C39968064%7Cc5e5bfe1f5a00cd07890da371904ebfe%7C1776236868) |
 | Rows | 531,150 |
 | Columns | 8 |
 | Date Range | December 2018 – December 2019 |
@@ -122,8 +122,8 @@ jupyter notebook notebooks/eda_analysis.ipynb
 ## 👤 Author
 
 **Barath**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourprofile)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/barathan--s/))
+- 🐙 [GitHub]((https://github.com/Barathan2006))
 
 ---
 
